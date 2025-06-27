@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/raastin_logo_with_typography</item>
+        <item name="windowSplashScreenBackground">#FFF</item>
+        <item name="postSplashScreenTheme">@style/Theme.Raastin</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+
+    </style>
+
+</resources>
