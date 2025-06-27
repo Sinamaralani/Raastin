@@ -1,5 +1,7 @@
 # Description
-<p></p>
+<p>
+  is a modern cryptocurrency app built with Kotlin, Jetpack Compose, and MVVM architecture.It provides real-time market data.
+</p>
 
 # Preview
 
