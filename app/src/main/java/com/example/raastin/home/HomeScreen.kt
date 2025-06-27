@@ -1,6 +1,5 @@
 package com.example.raastin.home
 
-import android.widget.Switch
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
