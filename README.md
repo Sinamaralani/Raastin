@@ -1,6 +1,6 @@
 # Description
 <p>
- Raastin is a modern cryptocurrency app built with Kotlin, Jetpack Compose, and MVVM architecture.It provides real-time market data.
+ Raastin is a modern cryptocurrency app built with Kotlin, Jetpack Compose, and MVVM architecture. It provides real-time market data.
 </p>
 
 # Preview
